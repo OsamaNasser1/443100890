@@ -1,0 +1,29 @@
+html{
+    background-color:slategrey
+}
+h1{
+    color:darkgreen;
+    text-align: center;
+    font-size: 38px;
+    font-family: 'Gill Sans MT';
+    font-weight: 570;
+    font-style:initial;
+}
+p ,ol{
+   
+    font-size: 18px;
+    font-family:  'Lucida Sans Unicode';
+    font-weight: 170;
+}
+p{
+    padding: 8px;
+    margin: 3px;
+}
+img{
+    margin: 20px;
+}
+a{
+    color: darkred;
+    padding: 13px;
+    margin: 25px;
+}
